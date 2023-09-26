@@ -22,5 +22,7 @@ hoặc ngăn chặn giao tiếp giữa các container trên cùng mạng.
 
 11. Sự Linh Hoạt: Mạng bridge do người dùng tự tạo mang tính linh hoạt cao hơn và cho phép bạn tạo ra nhiều mạng bridge riêng biệt với các cài đặt và tính năng khác nhau để phù hợp với nhu cầu của ứng dụng cụ thể.
 => 1 cái để mạng chỉ 1 mạng
-=> 1 cái có thể tạo ra nhiều mạng linh hoạt và riêng biệt theo từng nhu cầu
+=> 1 cái có thể tạo ra nhiều mạng linh hoạt và riêng biệt theo từng nhu cầu.
+
+
 Tóm lại, mạng bridge mặc định là mạng cơ bản được Docker cung cấp và có ít tính năng tùy chỉnh. Mạng bridge do người dùng tự tạo cho phép bạn tùy chỉnh nhiều cài đặt mạng hơn và tạo ra nhiều mạng riêng biệt trong Docker để phù hợp với yêu cầu cụ thể của bạn.
